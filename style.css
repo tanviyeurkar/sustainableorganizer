@@ -1,0 +1,61 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(72, 72, 72);
+
+    
+}
+.header-container{
+    
+    background-color: rgb(228, 209, 190);
+   
+}
+.banner-img2{
+    width: 350px;
+    height: 90px;
+    
+}
+.lists{
+    list-style-type: none;
+    color: white;
+    font-weight: 600;
+    font-style: arial;
+    display: inline-block;
+    text-align: center;
+    
+}
+.navbar-container{
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+.banner-img{
+    width: 70%;
+    height: 760px;
+    
+}
+.banner-container{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.banner-para{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-style: sans-serif;
+}
